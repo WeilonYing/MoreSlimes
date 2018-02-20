@@ -1,0 +1,7 @@
+name: MoreSlimes
+version: 1.0
+main: com.weilonying.moreslimes.MoreSlimes
+commands:
+  moreslimes:
+    description: Commands for MoreSlimes
+    usage: /moreslimes enable|disable
