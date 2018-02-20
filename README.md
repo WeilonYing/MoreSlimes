@@ -14,7 +14,8 @@ lava blocks.
 
 ## Contributions and development
 Feel free to report bugs through GitHub Issues. You're also welcome to make pull requests.
-If you wish to contribute to this plugin's development, or make a fork, clone this project and use
+
+If you wish to contribute to this plugin's development, it is highly recommended that you use
 Maven to resolve the plugin's dependencies. Seriously, use Maven. It's a godsend for anything that
 depends on an external library.
 
