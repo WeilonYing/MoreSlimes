@@ -1,6 +1,8 @@
 # MoreSlimes
 MoreSlimes is a Minecraft Spigot plugin for increasing the spawn rate of Slimes!
 
+This plugin is built against Spigot 1.12.2. It might work on other versions, but this isn't tested.
+
 ## Progress
 This plugin is VERY incomplete right now, and I highly recommend against using this on any production server.
 That means don't run this on any Minecraft server where
