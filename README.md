@@ -5,7 +5,7 @@ This plugin is built against Spigot 1.12.2. It might work on other versions, but
 
 ## Progress
 This plugin is VERY incomplete right now, and I highly recommend against using this on any production server.
-That means don't run this on any Minecraft server where
+That means don't run this on any Minecraft server where you have people actually playing, or contains builds that you'd rather not lose.
 In fact, to highlight how incomplete this plugin is, it currently has:
 - Slimes spawning pretty much anywhere under Y=40. This includes water blocks, air blocks and probably
 lava blocks.
